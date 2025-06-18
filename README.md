@@ -5,7 +5,7 @@
 💻 Atualmente estou explorando projetos com Python, Node.js, Prisma e SQL  
 🌍 Busco uma oportunidade de estágio
 
-## 🧠 Tecnologias que uso:
+## 🧪 Tecnologias que uso:
 - Backend: Node.js, Express, Prisma, MySQL, API RESTful, Typescript
 - Frontend: React, Tailwind, HTML, CSS, JavaScript
 - Lógica e Scripts: Python, JavaScript
