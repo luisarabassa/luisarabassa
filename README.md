@@ -1,18 +1,30 @@
 # Olá, eu sou a Luísa! ✨
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 🚀 Apaixonada por transformar ideias em soluções funcionais, práticas e versáteis  
-💻 Atualmente estou explorando projetos com Python, Node.js, Prisma e SQL  
-🌍 Busco uma oportunidade de estágio
+💻 Explorando o desenvolvimento de aplicações com foco em qualidade de código e boas práticas
+🌱 Atualmente aprendendo e construindo projetos com **Python**, **Node.js**, **Prisma** e **SQL**  
+🎯 Em busca de uma **oportunidade de estágio** para aplicar e expandir meus conhecimentos
 
 ## 🧪 Tecnologias que uso:
-- Backend: Node.js, Express, Prisma, MySQL, API RESTful, Typescript
-- Frontend: React, Tailwind, HTML, CSS, JavaScript
-- Lógica e Scripts: Python, JavaScript
-- Versionamento: Git, GitHub
 
-## 💼 Projetos em destaque:
+### 🔙 Backend
+- **Node.js**, **Express**, **TypeScript**
+- **Prisma ORM**, **MySQL**
+- **APIs RESTful**
+
+### 🎨 Frontend
+- **React**, **Tailwind CSS**
+- **HTML5**, **CSS3**, **JavaScript**
+  
+  ### 💡 Outros conhecimentos
+- **Python** (scripts e lógica)
+- versionamento **Git** & **GitHub**
+- Boas práticas de código e organização de repositórios
+
+## 🚀 Projetos em destaque:
 🔗 Veja os repositórios fixados aqui no meu perfil!
 
 📫 **Para contato:**  
-[LinkedIn](https://www.linkedin.com/in/luísa-rabassa) | Email: luisarabassads@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/luísa-rabassa)
+- 📧 Email: **luisarabassads@gmail.com**
