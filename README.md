@@ -14,5 +14,5 @@
 ## 💼 Projetos em destaque:
 🔗 Veja os repositórios fixados aqui no meu perfil!
 
-📫 **Contato:**  
+📫 **Para contato:**  
 [LinkedIn](https://www.linkedin.com/in/luísa-rabassa) | Email: luisarabassads@gmail.com
