@@ -1,5 +1,4 @@
 # Olá, eu sou a Luísa! ✨
-
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 🚀 Apaixonada por transformar ideias em soluções funcionais, práticas e versáteis
 💻 Explorando o desenvolvimento de aplicações com foco em qualidade de código e boas práticas
@@ -25,6 +24,6 @@
 ## 🚀 Projetos em destaque:
 🔗 Veja os repositórios fixados aqui no meu perfil!
 
-##📫 Para contato:
+## 📫 Para contato:
 - 💼 [LinkedIn](https://www.linkedin.com/in/luísa-rabassa)
 - 📧 Email: **luisarabassads@gmail.com**
