@@ -18,7 +18,7 @@
   
 ### 💡 Outros conhecimentos
 - **Python** (scripts e lógica)
-- versionamento **Git** & **GitHub**
+- Versionamento **Git** & **GitHub**
 - Boas práticas de código e organização de repositórios
 
 ## 🚀 Projetos em destaque:
