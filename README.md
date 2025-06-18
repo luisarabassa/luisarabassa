@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou a Luísa! 👋
 
-<!--
-**luisarabassa/luisarabassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Apaixonada por transformar ideias em soluções funcionais, práticas e versáteis  
+💻 Atualmente estou explorando projetos com Python, Node.js, Prisma e SQL  
+🌍 Busco uma oportunidade de estágio
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que uso:
+- Backend: Node.js, Express, Prisma, MySQL
+- Frontend: HTML, CSS, JavaScript
+- Lógica e Scripts: Python
+- Versionamento: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projetos em destaque:
+🔗 Veja os repositórios fixados aqui no meu perfil!
+
+📫 **Vamos conversar?**  
+[LinkedIn](https://www.linkedin.com/in/luísa-rabassa) | Email: luisarabassads@gmail.com
