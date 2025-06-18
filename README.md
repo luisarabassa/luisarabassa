@@ -2,7 +2,6 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Apaixonada por transformar ideias em soluções funcionais, práticas e versáteis  
-💻 Explorando o desenvolvimento de aplicações com foco em qualidade de código e boas práticas  
 🌱 Atualmente aprendendo e construindo projetos com **Python**, **Node.js**, **Prisma** e **SQL**  
 🎯 Em busca de uma **oportunidade de estágio** para aplicar e expandir meus conhecimentos  
 
