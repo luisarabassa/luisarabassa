@@ -1,6 +1,6 @@
 # Olá, eu sou a Luísa! ✨
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**  
 🚀 Apaixonada por transformar ideias em soluções funcionais, práticas e versáteis  
 🌱 Atualmente aprendendo e construindo projetos com **Python**, **Node.js**, **Prisma** e **SQL**  
 🎯 Em busca de uma **oportunidade de estágio** para aplicar e expandir meus conhecimentos  
