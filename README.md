@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**  
 🚀 Apaixonada por transformar ideias em soluções funcionais, práticas e versáteis  
-🌱 Atualmente aprendendo e construindo projetos com **Python**, **Node.js**, **Prisma** e **SQL**  
+🌱 Atualmente aprendendo e construindo projetos com **React Native**, **Expo Go**
 🎯 Em busca da minha **primeira oportunidade de trabalho** para aplicar e expandir meus conhecimentos
 
 ## 🧪 Tecnologias que uso:
