@@ -1,4 +1,4 @@
-### Olá, eu sou a Luísa! ✨  
+## Olá, eu sou a Luísa! ✨  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**  
 💡 Apaixonada por transformar ideias em soluções **funcionais**, **práticas** e **versáteis**  
