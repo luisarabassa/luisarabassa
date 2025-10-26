@@ -5,7 +5,7 @@
 🌱 Atualmente aprendendo e desenvolvendo projetos com **React Native** e **Expo Go**  
 🎯 Em busca da minha **primeira oportunidade profissional** para aplicar e expandir meus conhecimentos  
 
-### 🧠 Tecnologias que utilizo  
+## 🧠 Tecnologias que utilizo  
 
 ### 🔙 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
