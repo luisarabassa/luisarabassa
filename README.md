@@ -15,11 +15,6 @@
 ### 🎨 Frontend
 - **React**, **Tailwind CSS**
 - **HTML5**, **CSS3**, **JavaScript**
-  
-### 💡 Outros conhecimentos
-- **Python** (scripts e lógica)
-- Versionamento **Git** & **GitHub**
-- Boas práticas de código e organização de repositórios
 
 ## 🚀 Projetos em destaque:
 🔗 Veja os repositórios fixados aqui no meu perfil!
