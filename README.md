@@ -5,8 +5,6 @@
 🌱 Atualmente aprendendo e desenvolvendo projetos com **React Native** e **Expo Go**  
 🎯 Em busca da minha **primeira oportunidade profissional** para aplicar e expandir meus conhecimentos  
 
----
-
 ### 🧠 Tecnologias que utilizo  
 
 ### 🔙 **Backend**
@@ -31,8 +29,6 @@
 
 ### 🚀 Projetos em destaque  
 🔗 Confira os **repositórios fixados** aqui no meu perfil para ver o que tenho criado!
-
----
 
 ### 📫 Entre em contato  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/luísa-rabassa)  
