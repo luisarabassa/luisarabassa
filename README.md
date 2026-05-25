@@ -2,8 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**  
 Gosto de transformar minhas ideias em palavras coloridas  
-Atualmente aprendendo e desenvolvendo projetos com **React Native** e **Expo Go**  
-Em busca da minha **primeira oportunidade profissional** para aplicar e expandir meus conhecimentos  
+Atualmente aprendendo e desenvolvendo projetos com **ML** 
 
 
 ### Tecnologias que utilizo  
