@@ -28,9 +28,4 @@ Atualmente aprendendo e desenvolvendo projetos com **ML**
 
 
 ### Projetos em destaque  
-🔗 Confira os **repositórios fixados** aqui no meu perfil para ver o que tenho criado!
-
-
-### Entre em contato  
--  [**LinkedIn**](https://www.linkedin.com/in/luísa-rabassa)  
-- **luisarabassads@gmail.com**
+🔗 Confira os **repositórios fixados** aqui no meu perfil para ver o que venho criando!
