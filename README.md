@@ -1,8 +1,8 @@
 ### Olá, eu sou a Luísa! 🧚🏻‍♀️✨  
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**  
-Gosto de transformar minhas ideias em palavras coloridas  
-Atualmente aprendendo e desenvolvendo projetos com **ML** 
+Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**;  
+Gosto de transformar minhas ideias em palavras coloridas;  
+Atualmente aprendendo e desenvolvendo projetos com **ML**.
 
 
 ### Tecnologias que utilizo  
