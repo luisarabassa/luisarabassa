@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**;  
 Gosto de transformar ideias em palavras coloridas;  
-Atualmente aprendendo e desenvolvendo projetos com **ML**.
+Atualmente aprendendo e desenvolvendo projetos com **Machine Learning**.
 
 
 ### Tecnologias que utilizo  
