@@ -1,14 +1,14 @@
-### Olá, eu sou a Luísa! ✨  
+### Olá, eu sou a Luísa! 🧚🏻‍♀️✨  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**  
-💡 Gosto de transformar minhas ideias em palavras coloridas  
-🌱 Atualmente aprendendo e desenvolvendo projetos com **React Native** e **Expo Go**  
-🎯 Em busca da minha **primeira oportunidade profissional** para aplicar e expandir meus conhecimentos  
+Estudante de **Análise e Desenvolvimento de Sistemas** na **UniSenac**  
+Gosto de transformar minhas ideias em palavras coloridas  
+Atualmente aprendendo e desenvolvendo projetos com **React Native** e **Expo Go**  
+Em busca da minha **primeira oportunidade profissional** para aplicar e expandir meus conhecimentos  
 
 
-### 🧠 Tecnologias que utilizo  
+### Tecnologias que utilizo  
 
-### 🔙 **Backend**  
+### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,7 +18,7 @@
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 
-### 🎨 **Frontend**  
+### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -28,10 +28,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### 🚀 Projetos em destaque  
+### Projetos em destaque  
 🔗 Confira os **repositórios fixados** aqui no meu perfil para ver o que tenho criado!
 
 
-### 📫 Entre em contato  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/luísa-rabassa)  
-- 📧 **luisarabassads@gmail.com**
+### Entre em contato  
+-  [**LinkedIn**](https://www.linkedin.com/in/luísa-rabassa)  
+- **luisarabassads@gmail.com**
