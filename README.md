@@ -7,6 +7,8 @@ Atualmente aprendendo e desenvolvendo projetos com **Machine Learning**.
 
 ### Tecnologias que utilizo  
 
+![Top Langs](https://vercel.app)
+
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
